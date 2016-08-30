@@ -1,2 +1,3 @@
 # kslider
-slider image jquery
+
+Слайдер изображений на jQuery.
