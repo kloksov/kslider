@@ -48,7 +48,7 @@ $('#kslider').kslider({
 
 Растягиваем изображения и задаем отсупы и время анимации
 ```js
-$('#kslider3').kslider({
+$('#kslider').kslider({
 	width: 800,
 	height: 120,
 	count_img: 5,
